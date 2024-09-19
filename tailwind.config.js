@@ -11,6 +11,9 @@ export default {
             },
             colors: {
                 defaultBlue: '#6D95FC',
+            },
+            backgroundImage: {
+                'blue-to-transparent-80': 'linear-gradient(to right, rgba(109, 149, 252, 0) 68%, #6D95FC 200%)'
             }
         },
     },
