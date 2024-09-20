@@ -1,7 +1,6 @@
 import womanImg from '../assets/images/woman.png';
 
 export default function Welcome() {
-
     return (<>
         <div className="w-full bg-black h-dvh">
             <div className="grid grid-cols-2">
