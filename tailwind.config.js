@@ -13,7 +13,8 @@ export default {
                 defaultBlue: '#6D95FC',
             },
             backgroundImage: {
-                'blue-to-transparent-80': 'linear-gradient(to right, rgba(109, 149, 252, 0) 68%, #6D95FC 200%)'
+                'blue-to-transparent-80': 'linear-gradient(to right, rgba(109, 149, 252, 0) 68%, #6D95FC 180%)',
+                'transparent-to-blue': 'linear-gradient(to left, rgba(109, 149, 252, 0) 68%, #6D95FC 180%)',
             }
         },
     },
