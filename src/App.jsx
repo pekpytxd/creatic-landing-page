@@ -3,6 +3,7 @@ import Welcome from "./components/Welcome.jsx";
 import About from "./components/About.jsx";
 import OurService from "./components/OurService.jsx";
 import CompanyStats from "./components/CompanyStats.jsx";
+import LatestProjects from "./components/LatestProjects.jsx";
 
 function App() {
 
@@ -13,6 +14,7 @@ function App() {
             <About/>
             <OurService/>
             <CompanyStats/>
+            <LatestProjects/>
         </>
     )
 }
