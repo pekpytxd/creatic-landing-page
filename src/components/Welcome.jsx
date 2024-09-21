@@ -2,7 +2,7 @@ import womanImg from '../assets/images/woman.png';
 
 export default function Welcome() {
     return (<>
-        <div className="w-full bg-black h-dvh">
+        <div className="w-full bg-black h-fit">
             <div className="grid grid-cols-2">
                 <div className="flex flex-col ml-32 mt-40">
                     <span className="uppercase text-defaultBlue mb-12">Welcome to Creatic</span>

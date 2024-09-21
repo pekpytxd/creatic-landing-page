@@ -13,7 +13,7 @@ export default function LatestProjects() {
                 <span className="text-defaultBlue uppercase px-2">Our Work</span>
                 <div className="border-t text-white w-16"></div>
             </div>
-            <div className="flex justify-between items-center px-0 gap-4 w-full">
+            <div className="flex justify-between items-center px-0 gap-4 w-full sm:overflow-hidden">
                 <img src={artImage} className=""/>
                 <img src={womanArtImage} className=""/>
                 <img src={cloudPiecesImage} className=""/>
