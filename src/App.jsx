@@ -7,6 +7,7 @@ import LatestProjects from "./components/LatestProjects.jsx";
 import WhyUs from "./components/WhyUs.jsx";
 import ClientFeedback from "./components/ClientFeedback.jsx";
 import GetInTouch from "./components/GetInTouch.jsx";
+import Footer from "./components/Footer.jsx";
 
 function App() {
 
@@ -21,6 +22,7 @@ function App() {
             <WhyUs/>
             <ClientFeedback/>
             <GetInTouch/>
+            <Footer/>
         </>
     )
 }
