@@ -5,6 +5,7 @@ import OurService from "./components/OurService.jsx";
 import CompanyStats from "./components/CompanyStats.jsx";
 import LatestProjects from "./components/LatestProjects.jsx";
 import WhyUs from "./components/WhyUs.jsx";
+import ClientFeedback from "./components/ClientFeedback.jsx";
 
 function App() {
 
@@ -17,6 +18,7 @@ function App() {
             <CompanyStats/>
             <LatestProjects/>
             <WhyUs/>
+            <ClientFeedback/>
         </>
     )
 }
